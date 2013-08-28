@@ -9,7 +9,7 @@ Gem::Specification.new do |s|
   s.version     = StrQuote::VERSION
   s.authors     = ["Doug Wiegley"]
   s.email       = ["doug@uceem.com"]
-  s.homepage    = "http://www.uceem.com"
+  s.homepage    = "https://github.com/uceem/str_quote"
   s.summary     = "String quoting"
   s.description = "Quoting/unquoting of strings, including escaping"
 
