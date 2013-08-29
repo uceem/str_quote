@@ -12,6 +12,7 @@ Gem::Specification.new do |s|
   s.homepage    = "https://github.com/uceem/str_quote"
   s.summary     = "String quoting"
   s.description = "Quoting/unquoting of strings, including escaping"
+  s.license     = "MIT"
 
   s.files = Dir["{app,config,db,lib}/**/*"] + ["Rakefile", "README.md", "LICENSE"]
   s.test_files = Dir["test/**/*"]
