@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    str_quote (0.0.1)
+    str_quote (0.0.2)
 
 GEM
   remote: http://rubygems.org/
